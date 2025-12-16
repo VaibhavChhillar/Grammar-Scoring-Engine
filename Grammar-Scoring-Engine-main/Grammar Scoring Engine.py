@@ -1,5 +1,4 @@
-#Demonstration :- https://drive.google.com/file/d/1d_5oHVP3XHxugWX3zwZi-Qru_VitvFEB/view?usp=sharing
-#Github :- https://github.com/DarshanKagi/Grammar-Scoring-Engine
+
 
 import tkinter as tk
 from tkinter import filedialog, messagebox, simpledialog
@@ -689,3 +688,4 @@ report_text = create_scrollable_text(scrollable_frame, height=8, width=90)
 
 # Start the Tkinter main event loop
 root.mainloop()
+
