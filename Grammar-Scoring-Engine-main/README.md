@@ -101,12 +101,6 @@ pip install tkinter whisper language-tool-python sounddevice soundfile numpy tex
 
 ---
 
-## Media
-
-> **Watch a full demo:**  
-> https://drive.google.com/file/d/1d_5oHVP3XHxugWX3zwZi-Qru_VitvFEB/view?usp=sharing
-
----
 
 ## Future Enhancements
 
@@ -149,9 +143,8 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## Author
 
-**Darshan Kagi**  
-- Gmail: darshankagi04@gmail.com  
-- LinkedIn: [darshan-kagi-938836255](https://www.linkedin.com/in/darshan-kagi-938836255)  
+**Vaibhav Chhilllar**  
+- Gmail: 15vaibhav07@gmail.com
 
 ---
 
@@ -159,5 +152,4 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 Feel free to reach out for questions, collaborations, or just to say hi!
 
-- ✉️ Email: darshankagi04@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/darshan-kagi-938836255  
+
